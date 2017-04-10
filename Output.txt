@@ -1,0 +1,35 @@
+Card Information [First Name]: REYMUNDO,  [Last Name]: ORAKOL, [Student CIN]:300997025
+Card Information [First Name]: JEN,  [Last Name]: IUKO-YOYOKO, [Student CIN]:444555654
+Card Information [First Name]: DERTAQ,  [Last Name]: MUIHIXO-DERTIGIO, [Student CIN]:999987678
+Card Information [First Name]: JANNY,  [Last Name]: SEETY-DERTYOI, [Student CIN]:453666789
+Card Information [First Name]: TAMMY,  [Last Name]: POIOP-GYUKEN, [Student CIN]:111123345
+Card Information [First Name]: FERNNY,  [Last Name]: FREKKY-GOIPMNY, [Student CIN]:343564768
+Card Information [First Name]: JUKIO,  [Last Name]: IOPLIK-ERTYD, [Student CIN]:453675890
+Card Information [First Name]: GERIOTTY,  [Last Name]: NUNERT-GUYIKU, [Student CIN]:768977556
+Card Information [First Name]: AHMED,  [Last Name]: AHMIR-KHAN, [Student CIN]:444555654
+Card Information [First Name]: VICKY,  [Last Name]: HEEROI-GREEN, [Student CIN]:111000909
+Card Information [First Name]: YUUJIO,  [Last Name]: DEERKI-PRIOKO, [Student CIN]:777789567
+Card Information [First Name]: KIUJIO,  [Last Name]: JIKIOO-EDDIOY, [Student CIN]:777887995
+Card Information [First Name]: REDDY,  [Last Name]: JOHNSON-JONES, [Student CIN]:777897564
+Card Information [First Name]: RAKGIE,  [Last Name]: YARTER-MAUYINOK, [Student CIN]:323456333
+Card Information [First Name]: LUCIANO,  [Last Name]: BENSON-JENSON, [Student CIN]:342567990
+Card Information [First Name]: REGIE,  [Last Name]: ARTER-MARTINOK, [Student CIN]:1011978
+Card Information [First Name]: JENKO,  [Last Name]: FERRKIO-HUIKO, [Student CIN]:567812900
+Card Information [First Name]: ASTRYOP,  [Last Name]: WERT-JERTTY, [Student CIN]:98777654
+Card Information [First Name]: BOBA,  [Last Name]: WASKY-JUKKY, [Student CIN]:555676990
+Card Information [First Name]: ROSA,  [Last Name]: WESDYU-JUIOPZA, [Student CIN]:768987455
+
+
+===========Merge sort on Student CIN=================
+
+
+
+
+Merge sort takes 7465 nano time.
+
+
+
+
+===========After merge sort=================
+
+
